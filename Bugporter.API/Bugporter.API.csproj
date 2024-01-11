@@ -17,4 +17,8 @@
       <CopyToPublishDirectory>Never</CopyToPublishDirectory>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Features\CloseBug\" />
+    <Folder Include="Features\ViewBug\" />
+  </ItemGroup>
 </Project>
